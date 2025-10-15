@@ -81,8 +81,8 @@ All credit goes to the **original mod authors** and the amazing **WoW modding co
 ---
 🧩 Future Updates / WIP
 
-Adding Faithful's Upscale Armor mod
-
-Fixing crashes in Orgrimmar
+Add Faithful's Upscale Armor mod
+Fix Woodcutting trees glowing in some zones
+Fix crashes in Orgrimmar
 
 💡 If you need to stay in Orgrimmar without crashing, you can temporarily move all custom patches out of your Data folder

@@ -1,4 +1,4 @@
-# 🌌 Ascension 3.3.5a – Bronzebeard HD MPQ Build
+# 🌌 Ascension 3.3.5a – Bronzebeard Ultra-HD Mod Pack
 Complete HD overhaul for Ascension 3.3.5a (Bronzebeard). Includes upscaled textures, HD models, improved lighting, 4K maps, and other enhancments.
 
 

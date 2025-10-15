@@ -22,6 +22,7 @@ You **must have Ascension’s HD patch enabled** in the launcher.
 ---
 
 ## 🧩 Patch Loadout
+These are the **custom patches**, `.MPQ` mods that enhance visuals, audio, and gameplay — all stored in your game’s `\Data` folder.
 
 ```
 patch-4.MPQ     – Shadowlands trees & other things

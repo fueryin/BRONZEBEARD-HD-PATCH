@@ -1,6 +1,5 @@
 # 🌌 Ascension 3.3.5a – Bronzebeard HD MPQ Build
-
-After countless hours of testing, troubleshooting, and tuning, I finally have a **stable, fully playable HD setup**.
+Complete HD overhaul for Ascension 3.3.5a (Bronzebeard). Includes upscaled textures, HD models, improved lighting, 4K maps, and other enhancments.
 
 ⚠️ *Occasional crashes in Orgrimmar* may still occur due to the **4 GB memory limit** on 32-bit clients (Bronzebeard population).
 

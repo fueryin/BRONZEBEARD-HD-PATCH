@@ -1,5 +1,5 @@
 # 🌌 Ascension 3.3.5a – Bronzebeard Ultra-HD Mod Pack
-Complete Ultra-HD overhaul for Ascension 3.3.5a (Bronzebeard). Features textures and models beyond Ascension’s default HD pack, with fully upscaled assets, advanced lighting, 4K-resolution maps and much more.
+Complete Ultra-HD overhaul for Ascension 3.3.5a (Bronzebeard). Features textures and models beyond Ascension’s default HD pack, with fully upscaled assets, advanced lighting, 4K-resolution maps, and much more.
 
 
 

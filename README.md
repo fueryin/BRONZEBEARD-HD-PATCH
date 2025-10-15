@@ -18,7 +18,7 @@ You **must have Ascension’s HD patch enabled** in the launcher.
 **DXVK is highly recommended enabled** in the launcher.
 
 
-[**Changelog**](https://github.com/fueryin/BRONZEBEARD-ULTRA-HD-MOD-PACK/blob/Changelog/Changelog.md)
+[**[Changelog](https://github.com/fueryin/BRONZEBEARD-ULTRA-HD-MOD-PACK/blob/Changelog/Changelog.md)**]
 ---
 
 ## 🧩 Patch Loadout

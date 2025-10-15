@@ -4,6 +4,7 @@ Complete HD overhaul for Ascension 3.3.5a (Bronzebeard). Includes upscaled textu
 ⚠️ *Occasional crashes in Orgrimmar* may still occur due to the **4 GB memory limit** on 32-bit clients (Bronzebeard population).
 
 You **must have Ascension’s HD patch enabled** in the launcher.
+
 **DXVK is highly recommended enabled** for optimal performance.
 
 ---

@@ -12,4 +12,4 @@
 
 ### **Release v1.0** – *October 14, 2025*
 
-* Initial public release of the **Bronzebeard HD Mod Pack**.
+* Initial public release of the **Bronzebeard Ultra-HD Mod Pack**.

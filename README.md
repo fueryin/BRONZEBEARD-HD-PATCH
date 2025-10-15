@@ -72,7 +72,7 @@ C:\Program Files\Ascension Launcher\resources\client\
 
 ---
 
-### 🎨 ReShade Setup
+### 🎨 ReShade Setup (Optional)
 
 1. Download 👉 [**ReShade_Setup_6.6.1_Addon.exe**](https://reshade.me/downloads/ReShade_Setup_6.6.1_Addon.exe)
 2. Target `Ascension.exe`

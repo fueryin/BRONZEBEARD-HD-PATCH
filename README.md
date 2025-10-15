@@ -2,11 +2,13 @@
 Complete HD overhaul for Ascension 3.3.5a (Bronzebeard). Includes upscaled textures, HD models, improved lighting, 4K maps, and other enhancments.
 
 
+
 <p align="center">
-  <img src="https://i.imgur.com/s1qI9Ue.png" width="600"><br>
-  <img src="https://i.imgur.com/uB74q8F.png" width="600"><br>
-  <img src="https://i.imgur.com/p4TZUaG.png" width="600">
+  <img src="https://i.imgur.com/s1qI9Ue.png" width="32%" />
+  <img src="https://i.imgur.com/uB74q8F.png" width="32%" />
+  <img src="https://i.imgur.com/p4TZUaG.png" width="32%" />
 </p>
+
 
 
 ⚠️ *Occasional crashes in Orgrimmar* may still occur due to the **4 GB memory limit** on 32-bit clients (Bronzebeard population).

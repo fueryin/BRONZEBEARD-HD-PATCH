@@ -54,7 +54,7 @@ C:\Program Files\Ascension Launcher\resources\client\
 ```
 
 ✅ Overwrite existing files when prompted.
-✅ Ensure Ascension’s HD patch is enabled in the launcher.
+✅ Ensure Ascension’s HD patch is enabled in the launcher
 ✅ Enable **DXVK** in the launcher for best results.
 
 ---

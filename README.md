@@ -82,7 +82,7 @@ All credit goes to the **original mod authors** and the amazing **WoW modding co
 ---
 🧩 Future Updates / WIP
 
-Adding Faithful Upscale Armor (HD Models)
+Adding Faithful's Upscale Armor mod
 
 Fixing crashes in Orgrimmar
 

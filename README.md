@@ -88,3 +88,7 @@ All credit goes to the **original mod authors** and the amazing **WoW modding co
 
 💡 **Tip:** If you need to stay in Orgrimmar without crashing, you can temporarily move all custom patches out of your **Data** folder.
 
+---
+
+💬 I’m open to collaboration — reach me on Discord: **akuru_001**
+

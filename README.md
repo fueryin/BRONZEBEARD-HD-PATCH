@@ -86,4 +86,4 @@ Adding Faithful's Upscale Armor mod
 
 Fixing crashes in Orgrimmar
 
-💡 If you need to stay in Orgrimmar without crashing, you can temporarily move all custom patches out of your Data folder.
+💡 If you need to stay in Orgrimmar without crashing, you can temporarily move all custom patches out of your Data folder

@@ -5,7 +5,7 @@ Complete HD overhaul for Ascension 3.3.5a (Bronzebeard). Includes upscaled textu
 
 You **must have Ascension’s HD patch enabled** in the launcher.
 
-**DXVK is highly recommended enabled** for optimal performance.
+**DXVK is highly recommended enabled** in the launcher.
 
 ---
 

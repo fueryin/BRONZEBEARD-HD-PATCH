@@ -1,6 +1,7 @@
 # 🌌 Ascension 3.3.5a – Bronzebeard HD MPQ Build
 
 After countless hours of testing, troubleshooting, and tuning, I finally have a **stable, fully playable HD setup**.
+
 ⚠️ *Occasional crashes in Orgrimmar* may still occur due to the **4 GB memory limit** on 32-bit clients (Bronzebeard population).
 
 You **must have Ascension’s HD patch enabled** in the launcher.

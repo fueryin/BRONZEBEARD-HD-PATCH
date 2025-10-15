@@ -4,7 +4,7 @@
 
 * Switched download format from **ZIP archive** to **individual file downloads** for easier updating.
 * Updated the **Icons** folder with fixed assets.
-* Updated **patch-8.MPQ** for artifact fixes.
+* Updated **patch-8.MPQ** with artifact fixes.
 * Renamed **patch-11.MPQ → patch-ZZ95.MPQ** for improved load-order.
 * Updated **config.wtf** and **README.txt**.
 

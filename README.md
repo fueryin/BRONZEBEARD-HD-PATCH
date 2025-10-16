@@ -88,9 +88,9 @@ C:\Program Files\Ascension Launcher\resources\client\
 
 ###  If Google Reports a Download Limit
 
-> **1:** Create a new folder in your Google Drive.  
-> **2:** Open the Download folder, right-click the file, select **“Add shortcut to Drive,”** and choose the folder you just created.  
-> **3:** Go back to **My Drive**, right-click your new folder, and select **Download**.
+> **1.** Create a new folder in your Google Drive.  
+> **2.** Open the Download folder, right-click the file, select **“Add shortcut to Drive,”** and choose the folder you just created.  
+> **3.** Go back to **My Drive**, right-click your new folder, and select **Download**.
 
 
 ---

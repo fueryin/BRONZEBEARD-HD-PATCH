@@ -25,9 +25,9 @@ You **must have Ascension’s HD patch enabled** in the launcher.
 These are the **custom patches**, `.MPQ` mods that enhance visuals, audio, and gameplay — all stored in your game’s `\Data` folder.
 
 ```
-patch-4.MPQ     – Shadowlands trees & rocks (may cut off roads; delete if excluding)
+patch-4.MPQ     – Shadowlands trees & rocks
 Patch-5.MPQ     – Global upscale/denoise (A)
-patch-8.MPQ     – Appletrey’s HD models
+patch-8.MPQ     – Appletrey’s HD models (may cut off roads; can delete)
 Patch-9.mpq     – Global upscale/denoise (B)
 patch-10.MPQ    – Shadowlands textures downport
 Patch-12.MPQ    – Ascension's HD file (from launcher)
@@ -40,7 +40,7 @@ patch-51.mpq    – Abilities & Spells
 patch-ZZ63.mpq  – HD Boneless Undead (Chinese model)
 patch-ZZ64.mpq  – Hotfix bundle
 patch-ZZ71.mpq  – 4K Maps
-patch-ZZ95.mpq  – HD Doodads Collection
+patch-ZZ95.mpq  – HD Doodads Collection (may cut off roads; can delete)
 patch-ZZ96.mpq  – HD Skyboxes
 Patch-ZZ97.mpq  – x2 Fishing Bobbler
 patch-ZZ99.mpq  – Lord of the Rings OST

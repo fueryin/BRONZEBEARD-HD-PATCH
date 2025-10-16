@@ -5,7 +5,7 @@
 * Updated **ReShade preset** to source correct Paths.
 * Confirmed full compatibility with **Classless servers (Elune/Area 52)**.
 * Added **bypass instructions** for Google Drive download limits.
-* Updated **README.txt**
+* Updated **README.txt**.
 
 ---
 

@@ -25,7 +25,7 @@ You **must have Ascension’s HD patch enabled** in the launcher.
 These are the **custom patches**, `.MPQ` mods that enhance visuals, audio, and gameplay — all stored in your game’s `\Data` folder.
 
 ```
-patch-4.MPQ     – Shadowlands trees & other things
+patch-4.MPQ     – Shadowlands trees & rocks *(may cut off some roads; if you choose to exclude, DELETE your existing patch-4.MPQ from your Data folder).*
 Patch-5.MPQ     – Global upscale/denoise (A)
 patch-8.MPQ     – Appletrey’s HD models
 Patch-9.mpq     – Global upscale/denoise (B)

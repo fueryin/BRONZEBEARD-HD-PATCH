@@ -88,7 +88,7 @@ C:\Program Files\Ascension Launcher\resources\client\
 
  How to Bypass the Google Drive Download Limit
 
-> **Step 1:** Create a new folder in your Google Drive (for example: `gd-bypass`).  
+> **Step 1:** Create a new folder in your Google Drive.
 > **Step 2:** Open the shared file link, right-click the file, select **“Add shortcut to Drive,”** and choose the folder you just created.  
 > **Step 3:** Go back to **My Drive**, right-click your new folder, and select **Download**.
 

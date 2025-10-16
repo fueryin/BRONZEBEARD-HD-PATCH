@@ -2,7 +2,8 @@
 
 ### **Update v1.02** – *October 16, 2025*
 
-* Updated **ReShade preset** to source correct Paths.
+* Updated **Reshade config** for clearer naming and correct path references.
+* Added **Pixel Perfect Scaling** section for improved scaling.
 * Confirmed full compatibility with **Classless servers (Elune/Area 52)**.
 * Added **bypass instructions** for Google Drive download limits.
 * Updated **README.txt**.
@@ -22,3 +23,5 @@
 ### **Release v1.0** – *October 14, 2025*
 
 * Initial public release of the **Bronzebeard Ultra-HD Mod Pack**.
+
+---

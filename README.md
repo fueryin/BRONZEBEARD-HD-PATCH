@@ -80,7 +80,6 @@ C:\Program Files\Ascension Launcher\resources\client\
 4. Check *all shaders*
 5. Launch Bronzebeard → press **HOME** → select preset
 ---
-
 🧭 Pixel Perfect Scaling (Optional)
 
 For sharper UI at high resolutions, right-click Ascension.exe → Properties → Compatibility → Change high DPI settings, then enable Override high DPI scaling behavior and set it to Application.

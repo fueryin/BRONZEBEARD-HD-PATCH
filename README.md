@@ -105,3 +105,9 @@ All credit goes to the **original mod authors** and the amazing **WoW modding co
 
 💬 I’m open to collaboration — reach me on Discord: **akuru_001**
 
+
+
+This setup is completely safe to use.
+Custom .MPQ patches have been part of World of Warcraft modding for over a decade and are undetectable by the Ascension client.
+You cannot be banned for using them.
+

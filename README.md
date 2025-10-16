@@ -86,8 +86,6 @@ C:\Program Files\Ascension Launcher\resources\client\
 
 📦 [**Google Drive Download**](https://drive.google.com/drive/folders/1OPvNFYb5IZxqbhy1khCDNsqNG0Oa1gAq?usp=drive_link)
 
----
-
 ### ⚠️ If Google Reports a Download Limit
 
 > **Step 1:** Create a new folder in your Google Drive.  

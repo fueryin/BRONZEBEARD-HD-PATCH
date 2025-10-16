@@ -79,7 +79,6 @@ C:\Program Files\Ascension Launcher\resources\client\
 3. Choose **Vulkan** (with DXVK) or **DirectX9** (without)
 4. Check *all shaders*
 5. Launch Bronzebeard → press **HOME** → select preset
-
 ---
 
 🧭 Pixel Perfect Scaling (Optional)

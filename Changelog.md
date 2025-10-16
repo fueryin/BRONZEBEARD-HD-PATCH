@@ -1,5 +1,14 @@
 ## 📝 Changelog
 
+### **Update v1.02** – *October 16, 2025*
+
+* Updated **ReShade configuration** to source correct Paths.
+* Confirmed full compatibility with **Classless servers (Elune/Area 52)**.
+* Added **bypass instructions** for Google Drive download limits.
+* Updated **README.txt**
+
+---
+
 ### **Update v1.01** – *October 15, 2025*
 
 * Switched download format from **ZIP archive** to **individual file downloads** for easier updating.

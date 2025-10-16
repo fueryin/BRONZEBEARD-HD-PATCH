@@ -99,7 +99,7 @@ All credit goes to the **original mod authors** and the amazing **WoW modding co
 - Fix woodcutting trees glowing in some zones  
 - Fix crashes in Orgrimmar
 
-💡 **Tip:** If you need to stay in Orgrimmar without crashing, you can temporarily move all custom patches out of your **Data** folder.
+💡 **Tip:** If you need to stay in Orgrimmar without crashing, try switching to a lower-population instance from your minimap — or temporarily move all custom patches out of your **Data** folder.
 
 ---
 

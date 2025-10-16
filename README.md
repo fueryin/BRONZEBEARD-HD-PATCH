@@ -86,7 +86,7 @@ C:\Program Files\Ascension Launcher\resources\client\
 
 📦 [**Google Drive Download**](https://drive.google.com/drive/folders/1OPvNFYb5IZxqbhy1khCDNsqNG0Oa1gAq?usp=drive_link)
 
- How to Bypass the Google Drive Download Limit
+ If Google Reports a Download Limit
 
 > **Step 1:** Create a new folder in your Google Drive.
 > **Step 2:** Open the shared file link, right-click the file, select **“Add shortcut to Drive,”** and choose the folder you just created.  

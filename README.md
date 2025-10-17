@@ -66,7 +66,7 @@ C:\Program Files\Ascension Launcher\resources\client\
 
 ---
 
-### ⚙️ Enable PAE (Optional – Advanced)
+### ⚙️ Enable PAE
 
 Enable **PAE** in Windows to allow **32-bit processes** like Ascension’s client to use more than 4 GB of RAM:
 

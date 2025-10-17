@@ -66,7 +66,7 @@ C:\Program Files\Ascension Launcher\resources\client\
 
 ---
 
-### ⚙️ Enable PAE
+### ⚙️ Enable PAE (Optional)
 
 Enable **PAE** in Windows to allow **32-bit processes** like Ascension’s client to use more than 4 GB of RAM:
 
@@ -77,8 +77,6 @@ Enable **PAE** in Windows to allow **32-bit processes** like Ascension’s clien
    bcdedit /set PAE ForceEnable
    ```
 3. Restart your computer.
-
-This helps prevent crashes in areas such as **Orgrimmar** by letting the client use additional memory.
 
 ---
 

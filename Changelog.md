@@ -1,5 +1,12 @@
 ## 📝 Changelog
 
+### **Update v1.1** – *October 17, 2025*
+
+* Fixed all **holes in terrain and blocked paths** caused by **patch-ZZ95**.
+* Fixed **crashes in Orgrimmar** caused by **wooden dummies** in **patch-5** and **patch-17**.
+
+---
+
 ### **Update v1.02** – *October 16, 2025*
 
 * Updated **Reshade config** for clearer naming and correct path references.

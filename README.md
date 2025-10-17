@@ -66,20 +66,6 @@ C:\Program Files\Ascension Launcher\resources\client\
 
 ---
 
-### ⚙️ Enable PAE (Optional)
-
-Enable **PAE** in Windows to allow **32-bit processes** like Ascension’s client to use more than 4 GB of RAM:
-
-1. Open **Command Prompt** as Administrator.
-2. Run:
-
-   ```
-   bcdedit /set PAE ForceEnable
-   ```
-3. Restart your computer.
-
----
-
 ### 🎨 ReShade Setup (Optional)
 
 1. Download 👉 [**ReShade_Setup_6.6.1_Addon.exe**](https://reshade.me/downloads/ReShade_Setup_6.6.1_Addon.exe)
@@ -95,6 +81,20 @@ Enable **PAE** in Windows to allow **32-bit processes** like Ascension’s clien
 For sharper UI at high resolutions:
 Right-click `Ascension.exe` → **Properties → Compatibility → Change high DPI settings**,
 then enable **Override high DPI scaling behavior** and set it to **Application**.
+
+---
+
+### ⚙️ Enable PAE (Optional)
+
+Enable **PAE** in Windows to allow **32-bit processes** like Ascension’s client to use more than 4 GB of RAM:
+
+1. Open **Command Prompt** as Administrator.
+2. Run:
+
+   ```
+   bcdedit /set PAE ForceEnable
+   ```
+3. Restart your computer.
 
 ---
 

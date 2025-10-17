@@ -1,7 +1,7 @@
 # 🌌 Ascension 3.3.5a – Bronzebeard Ultra-HD Mod Pack
-Complete Ultra-HD overhaul for Ascension 3.3.5a (Bronzebeard & Classless). Features textures and models beyond Ascension’s default HD pack, with fully upscaled assets, advanced lighting, 4K-resolution maps, and much more.
 
-
+Complete Ultra-HD overhaul for **Ascension 3.3.5a (Bronzebeard & Classless)**.
+Features textures and models beyond Ascension’s default HD pack, with fully upscaled assets, advanced lighting, 4K-resolution maps, and much more.
 
 <p align="center">
   <img src="https://i.imgur.com/s1qI9Ue.png" width="32%" />
@@ -9,37 +9,33 @@ Complete Ultra-HD overhaul for Ascension 3.3.5a (Bronzebeard & Classless). Featu
   <img src="https://i.imgur.com/p4TZUaG.png" width="32%" />
 </p>
 
-
-
-⚠️ *Occasional crashes in Orgrimmar* may still occur due to the **4 GB memory limit** on 32-bit clients (Bronzebeard population).
-
 You **must have Ascension’s HD patch enabled** in the launcher.
+**DXVK is highly recommended** in the launcher.
 
-**DXVK is highly recommended enabled** in the launcher.
-
-**[Changelog](https://github.com/fueryin/BRONZEBEARD-ULTRA-HD-MOD-PACK/blob/Changelog/Changelog.md)**
+**[Version 1.1](https://github.com/fueryin/BRONZEBEARD-ULTRA-HD-MOD-PACK/blob/Changelog/Changelog.md)**
 
 ---
 
 ## 🧩 Patch Loadout
-These are the **custom patches**, `.MPQ` mods that enhance visuals, audio, and gameplay — all stored in your game’s `\Data` folder.
+
+These are the **custom patches**, `.MPQ` mods that enhance visuals, audio, and gameplay — all stored in your game’s `\Data` folder:
 
 ```
 patch-4.MPQ     – Shadowlands trees & models
 Patch-5.MPQ     – Global texture upscale (A)
-patch-8.MPQ     – Appletrey’s HD models 
+patch-8.MPQ     – Appletrey’s HD models
 Patch-9.mpq     – Global texture upscale (B)
 patch-10.MPQ    – Shadowlands textures downport
 Patch-12.MPQ    – Ascension's HD file (from launcher)
 Patch-15.mpq    – Ascension's HD file (from launcher)
-patch-16.mpq    – Loriendal's HD Characters 
+patch-16.mpq    – Loriendal's HD Characters
 patch-17.mpq    – Vish’s HD Creatures
-patch-21.mpq    – Reznik's shaders / Custom Old World Music restore
+patch-21.mpq    – Reznik's shaders / blood mod / Old World Music restore
 patch-31.MPQ    – Kingdom of Stormwind Reskin
 patch-51.mpq    – Abilities & Spells
 patch-ZZ63.mpq  – HD Boneless Undead (Chinese model)
 patch-ZZ64.mpq  – Hotfix bundle
-patch-ZZ71.mpq  – 4K Maps
+patch-ZZ71.mpq  – 4K Maps (may cause lag; optional)
 patch-ZZ95.mpq  – HD Doodads Collection
 patch-ZZ96.mpq  – HD Skyboxes
 Patch-ZZ97.mpq  – x2 Fishing Bobbler
@@ -67,8 +63,22 @@ C:\Program Files\Ascension Launcher\resources\client\
 ```
 
 ✅ Overwrite existing files when prompted.
-✅ Ensure Ascension’s HD patch is enabled in the launcher.
-✅ Enable **DXVK** in the launcher for best results.
+
+---
+
+### ⚙️ Enable PAE (Optional – Advanced)
+
+Enable **PAE** in Windows to allow **32-bit processes** like Ascension’s client to use more than 4 GB of RAM:
+
+1. Open **Command Prompt** as Administrator.
+2. Run:
+
+   ```
+   bcdedit /set PAE ForceEnable
+   ```
+3. Restart your computer.
+
+This helps prevent crashes in areas such as **Orgrimmar** by letting the client use additional memory.
 
 ---
 
@@ -79,22 +89,26 @@ C:\Program Files\Ascension Launcher\resources\client\
 3. Choose **Vulkan** (with DXVK) or **DirectX9** (without)
 4. Check *all shaders*
 5. Launch Bronzebeard → press **HOME** → select preset
+
 ---
+
 ### 🧭 Pixel Perfect Scaling (Optional)
 
-For sharper UI at high resolutions, right-click `Ascension.exe` → **Properties → Compatibility → Change high DPI settings**, then enable **Override high DPI scaling behavior** and set it to **Application**.
+For sharper UI at high resolutions:
+Right-click `Ascension.exe` → **Properties → Compatibility → Change high DPI settings**,
+then enable **Override high DPI scaling behavior** and set it to **Application**.
 
+---
 
 ## 🔗 Download
 
 📦 [**Google Drive Download**](https://drive.google.com/drive/folders/1OPvNFYb5IZxqbhy1khCDNsqNG0Oa1gAq?usp=drive_link)
 
-###  If Google Reports a Download Limit
+### If Google Reports a Download Limit
 
-> **1.** Create a new folder in your Google Drive.  
-> **2.** Open the Download folder, right-click the file, select **“Add shortcut to Drive,”** and choose the folder you just created.  
+> **1.** Create a new folder in your Google Drive.
+> **2.** Open the download folder, right-click the file, select **“Add shortcut to Drive”**, and choose the folder you just created.
 > **3.** Go back to **My Drive**, right-click your new folder, and select **Download**.
-
 
 ---
 
@@ -103,22 +117,16 @@ For sharper UI at high resolutions, right-click `Ascension.exe` → **Properties
 All credit goes to the **original mod authors** and the amazing **WoW modding community** that keeps these alive.
 
 ---
+
 ## 🧩 Future Updates / WIP
 
-- Add Faithful's Upscale Armor mod  
-- Fix woodcutting trees glowing in some zones  
-- Fix crashes in Orgrimmar
+* Fix woodcutting trees glowing in some zones
 
-💡 **Tip:** If you are crashing in Orgrimmar, try switching to a lower-population instance from your minimap — or temporarily move all custom patches out of your **Data** folder.
+💡 **Tip:** If you are experiencing **lag spikes**, delete `patch-ZZ71.MPQ` *(4K Maps)* from your **Data** folder.
 
 ---
 
 💬 I’m open to collaboration — reach me on Discord: **akuru_001**
-
-
-
-
-
 
 ---
 
@@ -128,7 +136,3 @@ All credit goes to the **original mod authors** and the amazing **WoW modding co
 Custom .MPQ patches have been part of World of Warcraft modding for over a decade and are UNDETECTABLE by the Ascension client.<br>
 YOU CANNOT BE BANNED FOR USING THEM.
 </b></p>
-
----
-
-

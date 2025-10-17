@@ -4,6 +4,7 @@
 
 * Fixed all **holes in terrain and blocked paths** caused by **patch-ZZ95**.
 * Fixed **crashes in Orgrimmar** caused by **wooden dummies** in **patch-5** and **patch-17**.
+* Added **PAE instructions** for better **RAM management** and improved stability.
 
 ---
 

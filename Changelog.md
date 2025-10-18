@@ -2,11 +2,9 @@
 
 ### **Update v1.1** – *October 17, 2025*
 
-* Fixed terrain holes and blocked paths from  
-  ```patch-ZZ95.MPQ```  
 * Updated  
   ```patch-ZZ95.MPQ```  
-  to fix **Orgrimmar crashes** by removing **bonfire.wmo**.  
+  to fix **terrain holes**, **blocked paths**, and **Orgrimmar crashes** by removing **bonfire.wmo**.  
 * Fixed Orgrimmar crashes caused by **woodendummies.wmo** in  
   ```patch-5.MPQ```  
   ```patch-17.MPQ```  

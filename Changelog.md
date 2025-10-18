@@ -7,20 +7,20 @@
 * Added **PAE instructions** on the main GitHub for better RAM handling.
 * Added **UIMask.png** in **reshade-shaders** to stop MXAO from affecting the UI.
 * Removed `patch-10.MPQ` *(it did nothing).*
+* Removed **4K maps** `patch-ZZ71.MPQ` — was causing major lag spikes.  
+  If you would like it, it is available here: [Google Drive Link](https://drive.google.com/file/d/1vLuYIUoiFoD1MW4oGLx1w62Dt8SH568Y/view?usp=sharing)
 
 **To Update:**
-
-```
 Replace:
-patch-ZZ95.MPQ
-patch-4.MPQ
-patch-5.MPQ
-patch-17.MPQ
-reshade-shaders folder
+patch-ZZ95.MPQ  
+patch-4.MPQ  
+patch-5.MPQ  
+patch-17.MPQ  
+reshade-shaders folder  
 
 Remove:
-patch-10.MPQ
-```
+patch-10.MPQ  
+patch-ZZ71.MPQ  
 
 ---
 
@@ -32,10 +32,7 @@ patch-10.MPQ
 * Updated **README.txt**.
 
 **To Update:**
-
-```
 No patch replacements.
-```
 
 ---
 
@@ -48,13 +45,10 @@ No patch replacements.
 * Updated **config.wtf** and **README.txt**.
 
 **To Update:**
-
-```
 Replace:
-patch-8.MPQ
-patch-ZZ95.MPQ
-Interface folder
-```
+patch-8.MPQ  
+patch-ZZ95.MPQ  
+Interface folder  
 
 ---
 

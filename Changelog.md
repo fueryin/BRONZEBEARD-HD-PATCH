@@ -4,11 +4,12 @@
 
 * Fixed terrain holes and blocked paths from  
   ```patch-ZZ95.MPQ```  
-* Fixed Orgrimmar crashes caused by woodendummies.wmo in  
+* Updated  
+  ```patch-ZZ95.MPQ```  
+  to fix **Orgrimmar crashes** by removing **bonfire.wmo**.  
+* Fixed Orgrimmar crashes caused by **woodendummies.wmo** in  
   ```patch-5.MPQ```  
   ```patch-17.MPQ```  
-  and removed OrcFortress.wmo in  
-  ```patch-4.MPQ```  
 * Added **PAE instructions** on the main GitHub for better RAM handling.  
 * Added **UIMask.png** in **reshade-shaders** to stop MXAO from affecting the UI.  
 * Removed  
@@ -21,7 +22,6 @@
 
 **To Update:** Replace  
 ```patch-ZZ95.MPQ```  
-```patch-4.MPQ```  
 ```patch-5.MPQ```  
 ```patch-17.MPQ```  
 ```reshade-shaders folder```  

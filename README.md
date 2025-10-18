@@ -35,7 +35,6 @@ patch-31.MPQ    – Kingdom of Stormwind Reskin
 patch-51.mpq    – Abilities & Spells
 patch-ZZ63.mpq  – HD Boneless Undead (Chinese model)
 patch-ZZ64.mpq  – Hotfix bundle
-patch-ZZ71.mpq  – 4K Maps (may cause lag; optional)
 patch-ZZ95.mpq  – HD Doodads Collection
 patch-ZZ96.mpq  – HD Skyboxes
 Patch-ZZ97.mpq  – x2 Fishing Bobbler
@@ -120,7 +119,6 @@ All credit goes to the **original mod authors** and the amazing **WoW modding co
 
 * Fix woodcutting trees glowing in some zones
 
-💡 **Tip:** If you are experiencing **lag spikes**, delete `patch-ZZ71.MPQ` *(4K Maps)* from your **Data** folder.
 
 ---
 

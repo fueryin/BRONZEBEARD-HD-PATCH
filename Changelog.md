@@ -7,7 +7,7 @@
 * Fixed Orgrimmar crashes caused by wooden dummies in  
   ```patch-5.MPQ```  
   ```patch-17.MPQ```
-* Added **PAE instructions** for better RAM handling.
+* Added **PAE instructions** on the main github for better RAM handling.
 * Added **UIMask.png** in **reshade-shaders** to stop MXAO from affecting the UI.
 
 **To Update:** Replace  

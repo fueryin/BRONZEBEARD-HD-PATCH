@@ -54,7 +54,7 @@
 
 **To Update:** Replace  
 ```patch-8.MPQ```  
-```patch-ZZ95.MPQ```  
+```patch-11.MPQ```  
 ```Interface folder```  
 
 ---

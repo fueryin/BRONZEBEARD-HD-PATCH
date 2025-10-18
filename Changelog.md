@@ -2,27 +2,23 @@
 
 ### **Update v1.1** – *October 17, 2025*
 
-* Fixed **terrain holes** and **blocked paths** from
-  `patch-ZZ95.MPQ`
-* Fixed **Orgrimmar crashes** caused by wooden dummies in
-  `patch-5.MPQ` and `patch-17.MPQ`
+* Fixed **terrain holes** and **blocked paths** from `patch-ZZ95.MPQ`
+* Fixed **Orgrimmar crashes** caused by **woodendummies.wom** in `patch-5.MPQ` and `patch-17.MPQ`, and removed **OrcFortress.wmo** in `patch-4.MPQ`
 * Added **PAE instructions** on the main GitHub for better RAM handling.
 * Added **UIMask.png** in **reshade-shaders** to stop MXAO from affecting the UI.
 * Removed `patch-10.MPQ` *(it did nothing).*
 
 **To Update:**
-Replace:
 
 ```
+Replace:
 patch-ZZ95.MPQ
+patch-4.MPQ
 patch-5.MPQ
 patch-17.MPQ
 reshade-shaders folder
-```
 
 Remove:
-
-```
 patch-10.MPQ
 ```
 
@@ -36,7 +32,10 @@ patch-10.MPQ
 * Updated **README.txt**.
 
 **To Update:**
-*No patch replacements.*
+
+```
+No patch replacements.
+```
 
 ---
 
@@ -44,16 +43,14 @@ patch-10.MPQ
 
 * Switched to **individual file downloads** for easier updating.
 * Fixed assets in **Icons** folder.
-* Updated
-  `patch-8.MPQ`
-* Renamed
-  `patch-11.MPQ → patch-ZZ95.MPQ`
+* Updated `patch-8.MPQ`
+* Renamed `patch-11.MPQ → patch-ZZ95.MPQ`
 * Updated **config.wtf** and **README.txt**.
 
 **To Update:**
-Replace:
 
 ```
+Replace:
 patch-8.MPQ
 patch-ZZ95.MPQ
 Interface folder

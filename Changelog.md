@@ -4,7 +4,7 @@
 
 * Fixed terrain holes and blocked paths from  
   ```patch-ZZ95.MPQ```  
-* Fixed Orgrimmar crashes caused by wooden dummies in  
+* Fixed Orgrimmar crashes caused by woodendummies.wmo in  
   ```patch-5.MPQ```  
   ```patch-17.MPQ```  
   and removed OrcFortress.wmo in  

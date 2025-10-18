@@ -26,7 +26,6 @@ patch-4.MPQ     – Shadowlands trees & models
 Patch-5.MPQ     – Global texture upscale (A)
 patch-8.MPQ     – Appletrey’s HD models
 Patch-9.mpq     – Global texture upscale (B)
-patch-10.MPQ    – Shadowlands textures downport
 Patch-12.MPQ    – Ascension's HD file (from launcher)
 Patch-15.mpq    – Ascension's HD file (from launcher)
 patch-16.mpq    – Loriendal's HD Characters

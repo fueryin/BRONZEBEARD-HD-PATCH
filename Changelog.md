@@ -26,7 +26,7 @@
 * Confirmed **Classless (Elune/Area 52)** compatibility.  
 * Updated **README.txt**.
 
-**To Update:** Text/config only — no patch replacements.
+**To Update:** — no patch replacements.
 
 ---
 

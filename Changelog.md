@@ -2,12 +2,12 @@
 
 ### **Update v1.1** – *October 17, 2025*
 
-* Fixed **terrain holes** and **blocked paths** caused by
+* Fixed **terrain holes** and **blocked paths** from
   `patch-ZZ95.MPQ`
 * Fixed **Orgrimmar crashes** caused by wooden dummies in
   `patch-5.MPQ` and `patch-17.MPQ`
 * Added **PAE instructions** on the main GitHub for better RAM handling.
-* Added **UIMask.png** in the **reshade-shaders** folder to prevent MXAO from rendering over the UI.
+* Added **UIMask.png** in **reshade-shaders** to stop MXAO from affecting the UI.
 * Removed `patch-10.MPQ` *(it did nothing).*
 
 **To Update:**
@@ -44,18 +44,10 @@ patch-10.MPQ
 
 * Switched to **individual file downloads** for easier updating.
 * Fixed assets in **Icons** folder.
-* Updated:
-
-```
-patch-8.MPQ
-```
-
-* Renamed:
-
-```
-patch-11.MPQ → patch-ZZ95.MPQ
-```
-
+* Updated
+  `patch-8.MPQ`
+* Renamed
+  `patch-11.MPQ → patch-ZZ95.MPQ`
 * Updated **config.wtf** and **README.txt**.
 
 **To Update:**

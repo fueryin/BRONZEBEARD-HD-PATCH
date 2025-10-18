@@ -3,7 +3,7 @@
 ### **Update v1.1** – *October 17, 2025*
 
 * Fixed **terrain holes** and **blocked paths** from `patch-ZZ95.MPQ`
-* Fixed **Orgrimmar crashes** caused by **woodendummies.wom** in `patch-5.MPQ` and `patch-17.MPQ`, and removed **OrcFortress.wmo** in `patch-4.MPQ`
+* Fixed **Orgrimmar crashes** caused by **woodendummies.wmo** in `patch-5.MPQ` and `patch-17.MPQ`, and removed **OrcFortress.wmo** in `patch-4.MPQ`
 * Added **PAE instructions** on the main GitHub for better RAM handling.
 * Added **UIMask.png** in **reshade-shaders** to stop MXAO from affecting the UI.
 * Removed `patch-10.MPQ` *(it did nothing).*

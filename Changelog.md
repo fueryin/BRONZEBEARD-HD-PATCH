@@ -10,7 +10,7 @@
 * Added **PAE instructions** for better RAM handling.
 * Added **UIMask.png** in **reshade-shaders** to stop MXAO from affecting the UI.
 
-**To Update:** Add & Replace  
+**To Update:** Replace  
 ```patch-ZZ95.MPQ```  
 ```patch-5.MPQ```  
 ```patch-17.MPQ```

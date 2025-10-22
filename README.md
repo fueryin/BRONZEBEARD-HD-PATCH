@@ -4,7 +4,7 @@
 `Patch-5.MPQ` and `Patch-6.MPQ` before installing.
 
 Complete Ultra-HD overhaul for **Ascension 3.3.5a (Bronzebeard & Classless)**.
-Features textures and models beyond Ascension’s default HD pack, with fully upscaled assets, advanced lighting, 4K-resolution maps, and much more.
+Features textures and models beyond Ascension’s default HD pack, with fully upscaled assets, advanced lighting, and much more.
 
 <p align="center">
   <img src="https://i.imgur.com/s1qI9Ue.png" width="32%" />

@@ -1,5 +1,20 @@
 ## 📝 Changelog
 
+### **Update v2.0** – *October 22, 2025*
+
+* This is a **massive re-order and overhaul** of all patches.  
+* Fixes **99% of bugs and crashes** for much-improved **stability**.  
+* You may also notice **better graphics** and smoother gameplay.  
+* Several patches have been **separated** for more customization and choice.  
+* Added  
+  ```patch-ZZ30.MPQ```  
+  — *Fire Eye of the Storm BG* — [See it here](https://imgur.com/a/Xy5nUSf)
+
+**To Update:**  
+Please **remove ALL previous patches** and **re-download the entire Google Drive**.
+
+---
+
 ### **Update v1.1** – *October 17, 2025*
 
 * Updated  

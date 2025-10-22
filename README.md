@@ -40,7 +40,6 @@ Patch-ZZ40    – HD Skyboxes
 Patch-ZZ50    – x2 Fishing Bobbler  
 Patch-ZZ60    – Kingdom of Stormwind Reskin  
 Patch-ZZ70    – Lord of the Rings Soundtrack  
-
 ---
 
 ---

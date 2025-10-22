@@ -24,6 +24,7 @@ Changelog: **[Version 2.0](https://github.com/fueryin/BRONZEBEARD-ULTRA-HD-MOD-P
 
 These are the **custom patches**, `.MPQ` mods that enhance visuals, audio, and gameplay — all stored in your game’s `\Data` folder:
 ---
+
 Patch-4.MPQ    – Abilities & Spells  
 Patch-5.MPQ    – Ascension's HD file (from launcher)  
 Patch-6.MPQ    – Ascension's HD file (from launcher)  
@@ -38,6 +39,7 @@ Patch-ZZ40    – HD Skyboxes
 Patch-ZZ50    – x2 Fishing Bobbler  
 Patch-ZZ60    – Kingdom of Stormwind Reskin  
 Patch-ZZ70    – Lord of the Rings Soundtrack  
+
 ---
 ---
 

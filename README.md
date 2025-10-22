@@ -23,6 +23,7 @@ Changelog: **[Version 2.0](https://github.com/fueryin/BRONZEBEARD-ULTRA-HD-MOD-P
 ## 🧩 Patch Loadout
 
 These are the **custom patches**, `.MPQ` mods that enhance visuals, audio, and gameplay — all stored in your game’s `\Data` folder:
+
 ---
 
 Patch-4.MPQ    – Abilities & Spells  
@@ -41,6 +42,7 @@ Patch-ZZ60    – Kingdom of Stormwind Reskin
 Patch-ZZ70    – Lord of the Rings Soundtrack  
 
 ---
+
 ---
 
 ## 🖼️ Extra Content

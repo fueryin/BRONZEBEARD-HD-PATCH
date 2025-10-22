@@ -4,7 +4,7 @@
 `Patch-5.MPQ` and `Patch-6.MPQ` before installing.
 
 Complete Ultra-HD overhaul for **Ascension 3.3.5a (Bronzebeard & Classless)**.  
-Features textures and models beyond Ascension’s default HD pack, with fully upscaled assets, advanced lighting, and much more.
+Features textures and models beyond Ascension’s default HD pack, with fully upscaled assets, advanced lighting, 4K-resolution maps, and much more.
 
 <p align="center">
   <img src="https://i.imgur.com/s1qI9Ue.png" width="32%" />
@@ -24,22 +24,23 @@ Changelog: **[Version 2.0](https://github.com/fueryin/BRONZEBEARD-ULTRA-HD-MOD-P
 
 These are the **custom patches**, `.MPQ` mods that enhance visuals, audio, and gameplay — all stored in your game’s `\Data` folder:
 
----
-
-Patch-4.MPQ    – Abilities & Spells  
-Patch-5.MPQ    – Ascension's HD file (from launcher)  
-Patch-6.MPQ    – Ascension's HD file (from launcher)  
-Patch-ZZ10    – Reznik's shaders  
-Patch-ZZ11    – Reznik's Blood Mod  
-Patch-ZZ12    – Old World Music Rewscore  
-Patch-ZZ20    – Some Texture upscales  
-Patch-ZZ21    – Appletrey’s HD models  
-Patch-ZZ22    – Shadowlands downports  
-Patch-ZZ30    – Fire eye of the storm BG  
-Patch-ZZ40    – HD Skyboxes  
-Patch-ZZ50    – x2 Fishing Bobbler  
-Patch-ZZ60    – Kingdom of Stormwind Reskin  
-Patch-ZZ70    – Lord of the Rings Soundtrack  
+patch-4.MPQ      – Shadowlands trees & models  
+Patch-5.MPQ      – Global texture upscale (A)  
+patch-8.MPQ      – Appletrey’s HD models  
+Patch-9.mpq      – Global texture upscale (B)  
+Patch-12.MPQ     – Ascension's HD file (from launcher)  
+Patch-15.mpq     – Ascension's HD file (from launcher)  
+patch-16.mpq     – Loriendal’s HD Characters  
+patch-17.mpq     – Vish’s HD Creatures  
+patch-21.mpq     – Reznik's shaders / blood mod / Old World Music restore  
+patch-31.MPQ     – Kingdom of Stormwind Reskin  
+patch-51.mpq     – Abilities & Spells  
+patch-ZZ63.mpq   – HD Boneless Undead (Chinese model)  
+patch-ZZ64.mpq   – Hotfix bundle  
+patch-ZZ95.mpq   – HD Doodads Collection  
+patch-ZZ96.mpq   – HD Skyboxes  
+Patch-ZZ97.mpq   – x2 Fishing Bobbler  
+patch-ZZ99.mpq   – Lord of the Rings Soundtrack  
 
 ---
 

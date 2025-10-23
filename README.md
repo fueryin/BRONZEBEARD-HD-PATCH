@@ -38,6 +38,7 @@ Patch-ZZ70 – Lord of the Rings Soundtrack
 ```
 
 ✅ **Works with any 3.3.5a client** — just remove Ascension’s HD files `Patch-5.MPQ` and `Patch-6.MPQ` before installing.
+
 ---
 
 ## 🖼️ Extra Content

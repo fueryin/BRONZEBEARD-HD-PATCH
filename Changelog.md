@@ -4,8 +4,8 @@
 
 * This is a **massive re-order and overhaul** of all patches.  
 * Fixes **99% of bugs and crashes** for much-improved **stability**.  
-* You may also notice **better graphics** and smoother gameplay.
-* Several patches removed for stability
+* You may also notice **better graphics** and smoother gameplay.  
+* Several patches removed for stability.  
 * Several patches have been **separated** for more customization and choice.  
 * Added  
   ```patch-ZZ30.MPQ```  
@@ -13,6 +13,26 @@
 
 **To Update:**  
 Please **remove ALL previous patches** and **re-download the entire Google Drive**.
+
+Remove all previous patches:
+patch-4.MPQ – Shadowlands trees & models  
+Patch-5.MPQ  
+patch-8.MPQ  
+Patch-9.mpq  
+Patch-12.MPQ  
+Patch-15.mpq  
+patch-16.mpq  
+patch-17.mpq  
+patch-21.mpq  
+patch-31.MPQ  
+patch-51.mpq  
+patch-ZZ63.mpq  
+patch-ZZ64.mpq  
+patch-ZZ71.mpq  
+patch-ZZ95.mpq  
+patch-ZZ96.mpq  
+Patch-ZZ97.mpq  
+patch-ZZ99.mpq  
 
 ---
 
@@ -34,13 +54,14 @@ Please **remove ALL previous patches** and **re-download the entire Google Drive
   — 4K maps causing major lag spikes.  
   If you would like it, it is available here: [Google Drive Link](https://drive.google.com/file/d/1vLuYIUoiFoD1MW4oGLx1w62Dt8SH568Y/view?usp=sharing)
 
-**To Update:** Replace  
+**To Update:**  
+Replace  
 ```patch-ZZ95.MPQ```  
 ```patch-5.MPQ```  
 ```patch-17.MPQ```  
 ```reshade-shaders folder```  
 
-*Remove*  
+Remove  
 ```patch-10.MPQ```  
 ```patch-ZZ71.MPQ```  
 
@@ -68,7 +89,8 @@ Please **remove ALL previous patches** and **re-download the entire Google Drive
   ```patch-11.MPQ → patch-ZZ95.MPQ```  
 * Updated **config.wtf** and **README.txt**.  
 
-**To Update:** Replace  
+**To Update:**  
+Replace  
 ```patch-8.MPQ```  
 ```patch-11.MPQ```  
 ```Interface folder```  

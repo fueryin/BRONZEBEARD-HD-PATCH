@@ -25,9 +25,9 @@ These are the **custom patches**, `.MPQ` mods that enhance visuals, audio, and g
 Patch-4.MPQ – Abilities & Spells
 Patch-5.MPQ – Ascension's HD file (from launcher)
 Patch-6.MPQ – Ascension's HD file (from launcher)
-Patch-ZZ10.MPQ – Reznik's shaders
+Patch-ZZ10.MPQ – Reznik's Shaders
 Patch-ZZ11.MPQ – Reznik's Blood Mod
-Patch-ZZ12.MPQ – Old World Music Rewscore
+Patch-ZZ12.MPQ – Old World Music Rescore
 Patch-ZZ20.MPQ – Some Texture upscales
 Patch-ZZ21.MPQ – Appletrey’s HD models
 Patch-ZZ22.MPQ – Shadowlands downports

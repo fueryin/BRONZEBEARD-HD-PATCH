@@ -10,6 +10,7 @@
 * Added  
   ```patch-ZZ30.MPQ```  
   — *Fire Eye of the Storm BG* — [See it here](https://imgur.com/a/Xy5nUSf)
+* Added new version of **DXVK**
 
 **To Update:**  
 Please **remove ALL previous patches** and **re-download the entire Google Drive**.

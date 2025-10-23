@@ -4,7 +4,8 @@
 
 * This is a **massive re-order and overhaul** of all patches.  
 * Fixes **99% of bugs and crashes** for much-improved **stability**.  
-* You may also notice **better graphics** and smoother gameplay.  
+* You may also notice **better graphics** and smoother gameplay.
+* Several patches removed for stability
 * Several patches have been **separated** for more customization and choice.  
 * Added  
   ```patch-ZZ30.MPQ```  

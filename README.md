@@ -10,7 +10,7 @@ Features textures and models beyond Ascension’s default HD pack, with fully up
 </p>
 <p align="center">
   <img src="https://imgur.com/w4hpjGK.png" width="32%" />
-  <img src="https://imgur.com/a/Xy5nUSf.png" width="32%" />
+  <img src="https://imgur.com/a2SYstS.png" width="32%" />
 </p>
 
 You **must have Ascension’s HD patch enabled** in the launcher.

@@ -1,7 +1,5 @@
 # 🌌 Ascension 3.3.5a – Bronzebeard Ultra-HD Mod Pack
 
-`Patch-5.MPQ` and `Patch-6.MPQ` before installing.
-
 Complete Ultra-HD overhaul for **Ascension 3.3.5a (Bronzebeard & Classless)**.
 Features textures and models beyond Ascension’s default HD pack, with fully upscaled assets, advanced lighting, and much more.
 
@@ -39,7 +37,7 @@ Patch-ZZ60 – Kingdom of Stormwind Reskin
 Patch-ZZ70 – Lord of the Rings Soundtrack
 ```
 
-✅ **Works with any 3.3.5a client** — just remove Ascension’s HD files
+✅ **Works with any 3.3.5a client** — just remove Ascension’s HD files `Patch-5.MPQ` and `Patch-6.MPQ` before installing.
 ---
 
 ## 🖼️ Extra Content

@@ -70,7 +70,7 @@ C:\Program Files\Ascension Launcher\resources\client\
 
 ### 🎨 ReShade Setup (Optional)
 
-1. Download 👉 **ReShade_Setup_6.6.1_Addon.exe**: [https://reshade.me/downloads/ReShade_Setup_6.6.1_Addon.exe](https://reshade.me/downloads/ReShade_Setup_6.6.1_Addon.exe)
+1. Download 👉 **[ReShade_Setup_6.6.1_Addon.exe](https://reshade.me/downloads/ReShade_Setup_6.6.1_Addon.exe)**
 2. Target `Ascension.exe`
 3. Choose **Vulkan** (with DXVK) or **DirectX9** (without)
 4. Check *all shaders*
@@ -106,8 +106,8 @@ You only need to do this once.
 
 ## 🔗 Download
 
-📦 **Google Drive Download**
-[https://drive.google.com/drive/folders/1OPvNFYb5IZxqbhy1khCDNsqNG0Oa1gAq?usp=drive_link](https://drive.google.com/drive/folders/1OPvNFYb5IZxqbhy1khCDNsqNG0Oa1gAq?usp=drive_link)
+📦 **[Google Drive Download](https://drive.google.com/drive/folders/1OPvNFYb5IZxqbhy1khCDNsqNG0Oa1gAq?usp=drive_link)**
+
 
 **If Google reports a download limit:**
 

@@ -10,6 +10,7 @@ Features textures and models beyond Ascension’s default HD pack, with fully up
 </p>
 
 You **must have Ascension’s HD patch enabled** in the launcher.
+
 **DXVK is highly recommended enabled** in the launcher.
 
 Changelog: **[Version 2.0](https://github.com/fueryin/BRONZEBEARD-ULTRA-HD-MOD-PACK/blob/Changelog/Changelog.md)**

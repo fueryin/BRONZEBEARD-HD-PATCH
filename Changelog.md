@@ -16,7 +16,7 @@ Please **remove ALL previous patches** and **re-download the entire Google Drive
 
 Remove all previous patches:
 ```
-patch-4.MPQ – Shadowlands trees & models  
+patch-4.MPQ
 Patch-5.MPQ  
 patch-8.MPQ  
 Patch-9.mpq  

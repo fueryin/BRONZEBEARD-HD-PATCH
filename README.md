@@ -113,6 +113,12 @@ You only need to do this once.
    and choose the folder you just created.
 3) Go back to My Drive, right-click your new folder, and select Download.
 ```
+Here’s the shortened version that fits your GitHub style cleanly:
+
+---
+
+⚠️ *Sometimes Google renames files on download — ensure names are correct
+
 
 ---
 

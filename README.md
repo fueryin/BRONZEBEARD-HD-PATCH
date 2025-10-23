@@ -25,17 +25,17 @@ These are the **custom patches**, `.MPQ` mods that enhance visuals, audio, and g
 Patch-4.MPQ – Abilities & Spells
 Patch-5.MPQ – Ascension's HD file (from launcher)
 Patch-6.MPQ – Ascension's HD file (from launcher)
-Patch-ZZ10 – Reznik's shaders
-Patch-ZZ11 – Reznik's Blood Mod
-Patch-ZZ12 – Old World Music Rewscore
-Patch-ZZ20 – Some Texture upscales
-Patch-ZZ21 – Appletrey’s HD models
-Patch-ZZ22 – Shadowlands downports
-Patch-ZZ30 – Fire eye of the storm
-Patch-ZZ40 – HD Skyboxes
-Patch-ZZ50 – x2 Fishing Bobbler
-Patch-ZZ60 – Kingdom of Stormwind Reskin
-Patch-ZZ70 – Lord of the Rings Soundtrack
+Patch-ZZ10.MPQ – Reznik's shaders
+Patch-ZZ11.MPQ – Reznik's Blood Mod
+Patch-ZZ12.MPQ – Old World Music Rewscore
+Patch-ZZ20.MPQ – Some Texture upscales
+Patch-ZZ21.MPQ – Appletrey’s HD models
+Patch-ZZ22.MPQ – Shadowlands downports
+Patch-ZZ30.MPQ – Fire eye of the storm
+Patch-ZZ40.MPQ – HD Skyboxes
+Patch-ZZ50.MPQ – x2 Fishing Bobbler
+Patch-ZZ60.MPQ – Kingdom of Stormwind Reskin
+Patch-ZZ70.MPQ – Lord of the Rings Soundtrack
 ```
 
 ✅ **Works with any 3.3.5a client** — just remove Ascension’s HD files `Patch-5.MPQ` and `Patch-6.MPQ` before installing.

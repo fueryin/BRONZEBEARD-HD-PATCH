@@ -31,7 +31,7 @@ Patch-ZZ12 – Old World Music Rewscore
 Patch-ZZ20 – Some Texture upscales
 Patch-ZZ21 – Appletrey’s HD models
 Patch-ZZ22 – Shadowlands downports
-Patch-ZZ30 – Fire eye of the storm [(Preview)](https://imgur.com/a/Xy5nUSf)
+Patch-ZZ30 – Fire eye of the storm https://imgur.com/a/Xy5nUSf
 Patch-ZZ40 – HD Skyboxes
 Patch-ZZ50 – x2 Fishing Bobbler
 Patch-ZZ60 – Kingdom of Stormwind Reskin

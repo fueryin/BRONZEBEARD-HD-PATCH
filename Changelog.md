@@ -15,6 +15,7 @@
 Please **remove ALL previous patches** and **re-download the entire Google Drive**.
 
 Remove all previous patches:
+```
 patch-4.MPQ – Shadowlands trees & models  
 Patch-5.MPQ  
 patch-8.MPQ  
@@ -33,7 +34,7 @@ patch-ZZ95.mpq
 patch-ZZ96.mpq  
 Patch-ZZ97.mpq  
 patch-ZZ99.mpq  
-
+```
 ---
 
 ### **Update v1.1** – *October 17, 2025*

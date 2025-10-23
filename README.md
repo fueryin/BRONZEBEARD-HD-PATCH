@@ -114,7 +114,7 @@ You only need to do this once.
 3) Go back to My Drive, right-click your new folder, and select Download.
 ```
 
-⚠️ *Sometimes Google renames files on download — ensure names are correct
+⚠️ Sometimes Google renames files on download — ensure names are correct
 
 ---
 

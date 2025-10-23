@@ -5,7 +5,7 @@ Features textures and models beyond Ascension’s default HD pack, with fully up
 
 <p align="center">
   <img src="https://i.imgur.com/s1qI9Ue.png" width="32%" />
-  <img src="https://imgur.com/NyXAqvX" width="32%" />
+  <img src="https://imgur.com/NyXAqvX.png" width="32%" />
   <img src="https://i.imgur.com/p4TZUaG.png" width="32%" />
 </p>
 
